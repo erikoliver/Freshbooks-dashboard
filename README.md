@@ -8,8 +8,11 @@ Requirements:
   - awesome_print
 
 Installation:
+
 1) Download files here
+
 2) If you don’t have required gems, copy and run in your terminal:
+
 	- gem install nokogiri
 	etc.
 
